@@ -1,0 +1,12 @@
+body {
+    background: url(../images/ep_naturalblack.png);
+}
+
+.container {
+    opacity: .5;
+}
+
+.gem {
+    width: 100px;
+    height: 100px;
+}
